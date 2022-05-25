@@ -1,0 +1,19 @@
+<html>
+<head>...</head>
+<title> Niraj first Page</title>
+<head>
+
+<i>fav movie is </i>
+<ul>
+<li>karwan</li>
+<li>Zindgi nimilegi dubara</li>
+</ul>
+</br>
+<ef>fav place</ef>
+<Ol>
+<li>Ranchi</li>
+<li>goa</li>
+</ol> 
+<a href="http://www.nitp.ac.in/php/students_nitp.php?pp=stuact">studied At</a>
+</head>
+</html>
